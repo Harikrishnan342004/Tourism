@@ -1,0 +1,27 @@
+body{
+    background-image: url(g-7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+.box{
+   
+  
+   display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.buttoncolor
+{
+    background: linear-gradient(to right, #44d0ff 1%, #8f00ff 105%);
+    text-align: center;
+   
+}
+.bb
+{
+    width: 250px;
+    border-radius: 4px;
+}
